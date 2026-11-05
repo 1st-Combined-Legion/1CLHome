@@ -46,7 +46,33 @@
         "viceHighCommander": "DrummingPanda",
         "viceRegiment": "CAT",
         "officeStart": "2026-07-10",
-        "officeEnd": null,
-        "description": "Will be added after their term ends."
+        "officeEnd": "2026-08-25"
+    },
+    {
+        "name": "CaptainCobalt",
+        "regiment": "ULTRAPOG",
+        "war": "140",
+        "viceHighCommander": "ApertureGaming",
+        "viceRegiment": "ULTRAPOG",
+        "officeStart": "2026-08-25",
+        "officeEnd": "2026-10-02"
+    },
+    {
+        "name": "Jeremiah",
+        "regiment": "ULTRAPOG",
+        "war": "141",
+        "viceHighCommander": "DrummingPanda",
+        "viceRegiment": "BSC",
+        "officeStart": "2026-10-02",
+        "officeEnd": "2026-10-27"
+    },
+    {
+        "name": "TheDerpMaster",
+        "regiment": "TCS",
+        "war": "142",
+        "viceHighCommander": "Blady0",
+        "viceRegiment": "TCS",
+        "officeStart": "2026-10-27",
+        "officeEnd": null
     }
 ]
